@@ -1,3 +1,3 @@
 # testingGit
 
-Learning github basicssaasasasasasassaasasa
+Learning github basics
