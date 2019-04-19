@@ -1,1 +1,3 @@
 # testingGit
+
+Learning github basics
